@@ -1,0 +1,1 @@
+ # label1.place(x=120, y=60)
